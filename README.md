@@ -1,0 +1,1 @@
+# Actividad_6_Regresi-n_Lineal_M-ltiple_y_No_Lineal
